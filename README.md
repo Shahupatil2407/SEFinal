@@ -1,7 +1,7 @@
 
-# My Fellow 
-- A university level Social - Educational web application
-- It allows the students and faculty members to make their public profiles by which they can exchange information, contribute, poll and establish communities within the university
+# College Social Networking Prject 
+- A College level Social - Educational web application
+- It allows the students and faculty members to make their public profiles by which they can exchange information, contribute, poll and establish communities within the college
 - Themes - Light and Dark
 
 ## Tech Stack
